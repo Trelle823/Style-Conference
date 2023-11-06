@@ -169,6 +169,7 @@ Home
 
 .hero p {
 	font-size: 24px;
+	font-weight: 100;
 }
 
 /*
@@ -203,6 +204,9 @@ Primary header
   	padding: 40px 0 22px 0;
 	font-size: 48px;
 	line-height: 44px;
+	font-weight: 100;
+	letter-spacing: .5px;
+	text-transform: uppercase;
 }
 
 .tagline {
@@ -270,7 +274,7 @@ Custom styles
 
 body {
 	color: #888;
-	font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica,
+	font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica,
   	Arial, sans-serif;
 }
 
